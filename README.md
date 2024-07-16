@@ -2,6 +2,10 @@
 
 **Calculadora GUI Minimalista**, es una aplicación simple y funcional escrita en Java que te permite realizar operaciones básicas como suma, resta, multiplicación y división.
 
+<p align="center">
+  <img width="861" alt="CoverCalculadora" src="https://github.com/user-attachments/assets/5a04722a-f32e-4ba8-8bf1-3b4a879d9b1c">
+</p>
+
 ## Descripción
 
 Esta calculadora ofrece una interfaz gráfica simple, diseñada para facilitar las operaciones aritméticas cotidianas. Es perfecta para vos si buscás una herramienta rápida y sencilla.
